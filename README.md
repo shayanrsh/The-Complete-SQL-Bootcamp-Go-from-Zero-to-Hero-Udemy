@@ -1,5 +1,5 @@
 # The Complete SQL Bootcamp 2023 🚀
-![](https://github.com/shayanrsh/Complete-sql-bootcamp/blob/main/ReaMePic.gif)
+![](https://github.com/shayanrsh/Complete-sql-bootcamp/blob/main/ReadMeGif.gif)
 
 This repository contains the codes and exercises that I have completed as part of the [The Complete SQL Bootcamp 2023](https://www.udemy.com/course/the-complete-sql-bootcamp/) course on Udemy. This course teaches me how to use SQL to query and analyze data from various databases such as PostgreSQL, MySQL, SQLite, Microsoft SQL Server, and more.
 
